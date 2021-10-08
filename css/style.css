@@ -27,6 +27,9 @@ body{
     color: rgba(255, 0, 0, 0.651);
 background-color: rgba(173, 216, 230, 0.226);
 }
+.ico{
+    margin-left: 4vw;
+}
 /* /nav end */
 
 .div1{
@@ -76,5 +79,13 @@ p{
 
 
 
-   /* form */
+   /* footer */
+   a{
+       color: black;
+       text-decoration: none;
+   }
+   a:hover{
+       color: rgb(189, 6, 6);
+       
+   }
   
