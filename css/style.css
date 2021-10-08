@@ -1,0 +1,80 @@
+/* nav start */
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:rgba(173, 216, 230, 0.226);
+}
+.mylogo{
+    margin-left: 6vw;
+    height: 6vw;
+    width: 6vw;
+}
+.navbar-nav{
+    margin-left: 7vw;
+
+
+}
+
+.nav-link{
+    margin-left: 2.5vw;
+    color: black; 
+    
+
+}
+.nav-link:hover{
+    color: rgba(255, 0, 0, 0.651);
+background-color: rgba(173, 216, 230, 0.226);
+}
+/* /nav end */
+
+.div1{
+    margin-top: 7.1vw;
+}
+/* slider */
+
+.carousel-item{
+    height: 100%;
+    width: 100%;
+}
+/* /slider end */
+
+p{
+    font-family:Garamond, serif;
+}
+/* card */
+.ml-1 {
+    margin-left: 6vw;
+    
+  }
+
+  .cardd{
+      
+    
+      margin-left: 3.5vw;
+      margin-top:1vw ;
+      
+  }
+  .carddd{
+      margin-top: 1.5vw;
+    text-align: center;
+    padding: 1vw 1vw 1.5vw 1vw;
+      
+  }
+  .aa{
+      color:rgba(255, 166, 0, 0.699);
+  }
+  .aa:hover{color: rgba(255, 0, 0, 0.493);
+
+  }
+
+
+
+  /*...................................................../card end...........................................
+   */
+
+
+
+   /* form */
+  
