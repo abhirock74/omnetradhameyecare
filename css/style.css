@@ -52,10 +52,17 @@ p{
     
   }
 
+  .cardd2{
+      
+    
+      margin-left: 4.5vw;
+      margin-top:1vw ;
+      
+  }
   .cardd{
       
     
-      margin-left: 3.5vw;
+      margin-left: 3.6vw;
       margin-top:1vw ;
       
   }
@@ -88,4 +95,6 @@ p{
        color: rgb(189, 6, 6);
        
    }
-  
+  .ftr{
+      margin-left: 3vw;
+  }
