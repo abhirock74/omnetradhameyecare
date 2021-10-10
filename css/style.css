@@ -148,5 +148,14 @@ p{
         margin-left: 32vw;
         margin-top: 9vw;
     }
+    .mylogo{
+        width: 15vw;
+        height: 15vw;
+        margin-top: 5vw;
+        margin-left: 1VW;
+    }
+    .imf-fluid{
+        width: 20vw;
+        height: 15vw;
     }
  }
