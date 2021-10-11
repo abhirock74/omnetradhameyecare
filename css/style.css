@@ -6,6 +6,9 @@
 body{
     background-color:rgba(173, 216, 230, 0.226);
 }
+.aniket{
+    height: 3.7vw;
+}
 .mylogo{
     margin-left: 6vw;
     height: 6vw;
@@ -162,11 +165,12 @@ p{
         height: 50vw;
         margin-top: 3vw;
     }
-    .fa-4x {
-        font-size: 5em;
-        margin-left: 32vw;
-        margin-top: 9vw;
-    }
+.cardd2 {
+    height: 50px;
+    width: 50px;
+    margin-left: 35.5vw;
+    margin-top: 12vw;
+}
     .mylogo{
         width: 15vw;
         height: 15vw;
@@ -193,6 +197,9 @@ p{
     }
     .sonu{
         line-height: 10.4vw;
+    }
+    .aniket{
+        height: 10vw;
     }
     
     
