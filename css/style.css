@@ -108,7 +108,9 @@ p{
   .ftr2{
       margin-left: 2.1vw;
   }
-
+.photo{
+    height: 15vw;
+}
 
 
 
@@ -158,4 +160,8 @@ p{
         width: 20vw;
         height: 15vw;
     }
+    .photo{
+        height: 50vw;
+    }
+    
  }
