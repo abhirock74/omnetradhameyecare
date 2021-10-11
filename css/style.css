@@ -111,6 +111,20 @@ p{
 .photo{
     height: 15vw;
 }
+.line{
+    width: 7vw;
+    height: 2vw;
+    border: 2px solid black;
+}
+.abhi{
+    height: 42vw;
+}
+.monu{
+    line-height: 2.1vw
+}
+.sonu{
+    line-height: 4.4vw;
+}
 
 
 
@@ -163,5 +177,20 @@ p{
     .photo{
         height: 50vw;
     }
+    .line{
+        width: 19vw;
+        height: 2vw;
+        border: 2px solid black;
+    }
+    .abhi{
+        height: 155vw;
+    }
+    .monu{
+        line-height: 10vw
+    }
+    .sonu{
+        line-height: 10.4vw;
+    }
+    
     
  }
