@@ -145,9 +145,19 @@ p{
 .hhh{
     height: 10vw;
 }
+.ps{
+    font-size: 1.5vw;
+}
+
 .foot-logo{
     height: 7vw;
     width: 7vw;
+}
+.map2{
+    height: 40vw;
+    width: 86vw;
+    margin-left: 7vw;
+    border:8px solid white;
 }
 
 
