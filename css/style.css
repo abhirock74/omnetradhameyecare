@@ -139,12 +139,17 @@ p{
 
 
 .contact2{
-    background-color: rgba(0, 0, 255, 0.733);
+    background-color: rgba(173, 216, 230, 0.836);
     height: 15vw;
 }
 .hhh{
     height: 10vw;
 }
+.foot-logo{
+    height: 7vw;
+    width: 7vw;
+}
+
 
 
 
@@ -214,6 +219,17 @@ p{
     }
     .aniket{
         height: 10vw;
+    }
+    .contact2 {
+        background-color: rgba(173, 216, 230, 0.836);
+        height: 40vw;
+    }
+    .hhh {
+        height: 40vw;
+    }
+    .foot-logo{
+        height: 15vw;
+        width: 15vw;
     }
     
     
