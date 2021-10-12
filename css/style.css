@@ -236,6 +236,8 @@ p{
         height: 15vw;
         width: 15vw;
     }
-    
+    .ps {
+        font-size: 4.5vw;
+    }
     
  }
