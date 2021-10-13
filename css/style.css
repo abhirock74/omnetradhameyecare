@@ -133,7 +133,8 @@ p{
 }
 .foot-social{
     margin-left: 3vw;
-    margin-bottom: vw;
+    margin-bottom: 1vw;
+    margin-top: -5vw;
 }
 #copy{
     color: blanchedalmond;
@@ -152,7 +153,8 @@ p{
     height: 15vw;
 }
 .hhh{
-    height: 10vw;
+    height: 15vw;
+  
 }
 .ps{
     font-size: 1.5vw;
@@ -252,7 +254,7 @@ p{
     }
     .contact2 {
         background-color: rgba(173, 216, 230, 0.836);
-        height: 40vw;
+        height: 50vw;
     }
     .hhh {
         height: 40vw;
@@ -288,5 +290,11 @@ p{
     .donn{
         margin-top: 7vw;
     }
+    .goa{
+        display: block;
+        font-size: 5vw;
+        margin-top: 25vw;
+    }
+    
     
  }
