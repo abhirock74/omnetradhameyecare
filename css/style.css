@@ -428,5 +428,13 @@ p{
     .aniket {
         height: 24vw!important;
     }
+    .monkey{
+        width: 98vw;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    #mp{
+        margin-top: 8vw;
+    }
     
  }
