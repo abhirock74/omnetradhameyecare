@@ -124,6 +124,7 @@ p{
 }
 .abhi{
     height: 42vw;
+    margin-top: 5vw;
 }
 .monu{
     line-height: 2.1vw
@@ -253,7 +254,7 @@ p{
         line-height: 10.4vw;
     }
     .aniket{
-        height: 10vw;
+        height: 15vw;
     }
     .contact2 {
         background-color: rgba(173, 216, 230, 0.836);
@@ -298,6 +299,12 @@ p{
         font-size: 5vw;
         margin-top: 25vw;
     }
-    
+    .mohit {
+        width: 100%!important;
+        margin-top: 15vw;
+    }
+    .aniket {
+        height: 24vw!important;
+    }
     
  }
