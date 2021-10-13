@@ -131,6 +131,15 @@ p{
 .sonu{
     line-height: 4.4vw;
 }
+.foot-social{
+    margin-left: 3vw;
+    margin-bottom: vw;
+}
+#copy{
+    color: blanchedalmond;
+    background-color: black;
+    text-align: center;
+}
                    /* contect===============================================================
                    ===================================================================================
                    =====================================================================================
@@ -200,9 +209,9 @@ p{
     margin-top: 12vw;
 }
     .mylogo{
-        width: 15vw;
-        height: 15vw;
-        margin-top: 5vw;
+        width: 20vw;
+        height: 20vw;
+        
         margin-left: 1VW;
     }
     .imf-fluid{
@@ -219,7 +228,11 @@ p{
     }
     .abhi{
         height: 155vw;
+        margin-bottom: 5vw;
     }
+    .mt-5 {
+    margin-top: 1rem!important;
+}
     .monu{
         line-height: 10vw
     }
@@ -237,11 +250,29 @@ p{
         height: 40vw;
     }
     .foot-logo{
-        height: 15vw;
-        width: 15vw;
+        height: 17vw;
+        width: 17vw;
     }
     .ps {
         font-size: 4.5vw;
+    }
+    .img-fluid {
+        max-width: 100%;
+        height: auto;
+        margin-top: 4vw;
+    }
+    .motuji{
+        width: 60%;
+        margin-left: 20%;
+        margin-top: -5vw;
+        margin-bottom: 5vw;
+    }
+    .nav-link {
+        margin-left: -13.5vw;
+        width: 100vw;
+    }
+    .navbar-nav .nav-link{
+        padding-left: 17vw
     }
     
  }
