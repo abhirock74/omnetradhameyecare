@@ -183,7 +183,15 @@ p{
 }
 
 /* /service */
-
+.doctor{
+    width: 100%;
+}
+.booder{
+    border: 10px solid rgba(148, 203, 219, 0.5);
+}
+.don{
+    margin-bottom: 2vw;
+}
 
 
 
@@ -231,7 +239,7 @@ p{
         margin-bottom: 5vw;
     }
     .mt-5 {
-    margin-top: 1rem!important;
+    margin-top: 0rem!important;
 }
     .monu{
         line-height: 10vw
@@ -273,6 +281,12 @@ p{
     }
     .navbar-nav .nav-link{
         padding-left: 17vw
+    }
+    .don{
+        margin-top: -5vw;
+    }
+    .donn{
+        margin-top: 7vw;
     }
     
  }
