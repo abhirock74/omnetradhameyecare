@@ -124,6 +124,7 @@ p{
 }
 .abhi{
     height: 42vw;
+    margin-top: 5vw;
 }
 .monu{
     line-height: 2.1vw
@@ -133,7 +134,8 @@ p{
 }
 .foot-social{
     margin-left: 3vw;
-    margin-bottom: vw;
+    margin-bottom: 1vw;
+    margin-top: -5vw;
 }
 #copy{
     color: blanchedalmond;
@@ -152,7 +154,8 @@ p{
     height: 15vw;
 }
 .hhh{
-    height: 10vw;
+    height: 15vw;
+  
 }
 .ps{
     font-size: 1.5vw;
@@ -373,11 +376,11 @@ p{
         line-height: 10.4vw;
     }
     .aniket{
-        height: 10vw;
+        height: 15vw;
     }
     .contact2 {
         background-color: rgba(173, 216, 230, 0.836);
-        height: 40vw;
+        height: 50vw;
     }
     .hhh {
         height: 40vw;
@@ -412,6 +415,18 @@ p{
     }
     .donn{
         margin-top: 7vw;
+    }
+    .goa{
+        display: block;
+        font-size: 5vw;
+        margin-top: 25vw;
+    }
+    .mohit {
+        width: 100%!important;
+        margin-top: 15vw;
+    }
+    .aniket {
+        height: 24vw!important;
     }
     
  }
