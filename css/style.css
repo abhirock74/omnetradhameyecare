@@ -54,17 +54,21 @@ p{
 
 /* card */
 .btno{
-    margin-left: 3vw;
+    margin-left: 2vw;
     margin-top: 2vw;
 }
 
 .btnoo{
-    margin-left: 3vw;
-    margin-top: 4.7vw;
+    margin-left: 2vw;
+    margin-top: 0.7vw;
 }
 .btnooo{
-    margin-left: 3vw;
-    margin-top: 4vw;
+    margin-left: 2vw;
+    margin-top: .7vw;
+}
+.btnoooo{
+    margin-left: 2vw;
+    margin-top: .7vw;
 }
 .ml-1 {
     margin-left: 5.5vw;
@@ -337,6 +341,12 @@ p{
 .footermap{
     display: none;
 }
+.container-fluid{
+    width: 100%;
+}
+footer{
+    width: 100%;
+}
 @media only screen and (max-width:990px){
     .box-gallery{ margin-bottom: 30px; }
 }
@@ -494,13 +504,18 @@ p{
     }
     .footermap{
         display: block;
-        margin-left: 0vw;
-        margin-right: 4vw;
+        margin-left: -3vw;
+        margin-right: 1vw;
         margin-top: -10vw;
+        border: 5px solid rgb(238, 238, 238);
     }
     .appoi {
         margin-left: 25%;
         margin-right: 25%;
         margin-bottom: 6vw;
+    }
+    footer {
+        width: 96vw;
+        margin-left: 2vw;
     }
  }
