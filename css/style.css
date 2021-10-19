@@ -451,5 +451,9 @@ p{
     #mp{
         margin-top: 8vw;
     }
-    
+    /* gallary photo */
+    .box-gallery img{
+        width: 100%;
+        height:55vw;
+    }    
  }
