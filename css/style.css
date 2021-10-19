@@ -334,6 +334,9 @@ p{
     background: #00cb86;
     color: #fff;
 }
+.footermap{
+    display: none;
+}
 @media only screen and (max-width:990px){
     .box-gallery{ margin-bottom: 30px; }
 }
@@ -488,6 +491,12 @@ p{
         margin-left: 4vw;
         border: 8px solid white;
         margin-bottom: 5vw;
+    }
+    .footermap{
+        display: block;
+        margin-left: 0vw;
+        margin-right: 4vw;
+        margin-top: -10vw;
     }
     .appoi {
         margin-left: 25%;
