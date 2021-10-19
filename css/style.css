@@ -451,9 +451,35 @@ p{
     #mp{
         margin-top: 8vw;
     }
+    
+.btno {
+    margin-left: 18vw;
+    margin-top: 2vw;
+}
+.btnoo {
+    margin-left: 17vw;
+    margin-top: 10.7vw;
+}
+.btnooo {
+    margin-left: 17vw;
+    margin-top: 4vw;
+}
     /* gallary photo */
     .box-gallery img{
         width: 100%;
         height:55vw;
     }    
+    /* google map in mobile view */
+    .map2 {
+        height: 94vw;
+        width: 94vw;
+        margin-left: 4vw;
+        border: 8px solid white;
+        margin-bottom: 5vw;
+    }
+    .appoi {
+        margin-left: 25%;
+        margin-right: 25%;
+        margin-bottom: 6vw;
+    }
  }
