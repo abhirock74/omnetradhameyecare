@@ -412,6 +412,11 @@ p{
         height: auto;
         margin-top: 4vw;
     }
+    .iamfluid {
+        width: 100%;
+        height: 95vw;
+        margin-top: 4vw;
+    }
     .motuji{
         width: 60%;
         margin-left: 20%;
@@ -458,11 +463,18 @@ p{
 }
 .btnoo {
     margin-left: 17vw;
-    margin-top: 10.7vw;
+    margin-top: 3.7vw;
 }
 .btnooo {
     margin-left: 17vw;
-    margin-top: 4vw;
+    margin-top: -2vw;
+}
+.btnoooo {
+    margin-left: 17vw;
+    margin-top: 10vw;
+}
+.photo1{
+    height: 65vw;
 }
     /* gallary photo */
     .box-gallery img{
