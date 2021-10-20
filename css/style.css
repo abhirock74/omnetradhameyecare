@@ -206,14 +206,17 @@ p{
 
 /* /service */
 .doctor{
-    width: 100%;
+    width: 90%;
+    margin-left: 1.5vw;
+    margin-top: 1.5vw;
+
 }
-.booder{
-    border: 10px solid rgba(148, 203, 219, 0.5);
+.doctor:hover{
+  
+    border: 4px solid rgba(255, 0, 0, 0.651);
 }
-.don{
-    margin-bottom: 2vw;
-}
+
+
 .qwe{
     margin-left: 6vw;
 }
