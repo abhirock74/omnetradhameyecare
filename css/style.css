@@ -177,7 +177,7 @@ p{
   
 }
 .ps{
-    font-size: 1.5vw;
+    font-size: 1.4vw;
 }
 
 .foot-logo{
@@ -353,9 +353,26 @@ footer{
 @media only screen and (max-width:990px){
     .box-gallery{ margin-bottom: 30px; }
 }
+/* .........................................about................................................... */
 
 
-
+.img-box {
+    margin-left: 7vw;
+    position: relative;
+    padding-left: 30px;
+    margin-bottom: 50px;
+}
+.img-box:before {
+    content: '';
+    width: calc(100% - 2em);
+    height: 100%;
+    background: #df4a79;
+    border-radius: 5px;
+    position: absolute;
+    top: 30px;
+    left: 0;
+    z-index: -1;
+}
 
 
 
@@ -422,6 +439,7 @@ footer{
     }
     .ps {
         font-size: 4.5vw;
+        
     }
     .img-fluid {
         max-width: 100%;
