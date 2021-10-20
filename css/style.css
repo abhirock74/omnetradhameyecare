@@ -209,6 +209,10 @@ p{
     width: 90%;
     margin-left: 1.5vw;
     margin-top: 1.5vw;
+}
+.doctor2{
+    width: 320px;
+    height: 250px;
 
 }
 .doctor:hover{
