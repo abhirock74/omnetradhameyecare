@@ -79,7 +79,7 @@ p{
       height: 60px;
       width: 60px;
     
-      margin-left: 4.5vw;
+      margin-left: 4vw;
       margin-top:1.5vw ;
       
   }
@@ -349,6 +349,9 @@ p{
 }
 footer{
     width: 100%;
+}
+.hover1:hover{
+    border: 10px solid transparent;
 }
 @media only screen and (max-width:990px){
     .box-gallery{ margin-bottom: 30px; }
