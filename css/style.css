@@ -528,6 +528,35 @@ footer{
 .photo1{
     height: 65vw;
 }
+.underline{
+    text-decoration-line: underline;
+  text-decoration-style: double;
+    line-height: 7vw;
+}
+.underline:hover{
+    color: red;
+}
+.height-base{
+    margin-top: -18vw !important;
+}
+.height-boss{
+    margin-top: -10vw !important;
+    margin-left: 3vw;
+    width: 90vw;
+}
+.rnps{
+    width: 40vw;
+    margin-top: 0vw;
+    margin-bottom: 0vw;
+    border: 1px solid rgb(121, 25, 25);
+}
+.rnps:hover{
+    border: 1px solid rgb(255, 0, 0);
+}
+.height-logo{
+    margin-top: 1vw !important;
+    margin-bottom: -1vw !important;
+}
     /* gallary photo */
     .box-gallery img{
         width: 100%;
