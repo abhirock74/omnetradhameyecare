@@ -621,6 +621,10 @@ footer{
         margin-top: 0vw;
         margin-bottom: 8vw;
     }
+    .text-dark {
+        margin-top: 8vw;
+    }
+
 
     /* ////////////////////////////ABOUT PAGE//////////////////////////////// */
     .doctor {
