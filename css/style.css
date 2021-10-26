@@ -60,11 +60,11 @@ p{
 
 .btnoo{
     margin-left: 2vw;
-    margin-top: 0.7vw;
+    margin-top: 1.2vw;
 }
 .btnooo{
     margin-left: 2vw;
-    margin-top: .7vw;
+    margin-top: -.7vw;
 }
 .btnoooo{
     margin-left: 2vw;
@@ -104,7 +104,15 @@ p{
   .aa:hover{color: rgba(255, 0, 0, 0.493);
 
   }
-
+  .photo33{
+      height: 450px;
+      width: 400px;
+  }
+  .motuji{
+    width: 20vw;
+    margin-left: 10vw;
+    
+}
 
 
   /*...................................................../card end...........................................
@@ -132,7 +140,7 @@ p{
     margin-top: 5vw;
   }
 .photo{
-    height: 15vw;
+    height: 13vw;
 }
 .line{
     width: 7vw;
@@ -140,7 +148,7 @@ p{
     border: 2px solid black;
 }
 .abhi{
-    height: 42vw;
+    height: 40vw;
     margin-top: 5vw;
 }
 .monu{
@@ -519,11 +527,11 @@ footer{
 }
 .btnooo {
     margin-left: 17vw;
-    margin-top: -2vw;
+    margin-top: 1.3vw;
 }
 .btnoooo {
     margin-left: 17vw;
-    margin-top: 10vw;
+    margin-top: 2.7vw;
 }
 .photo1{
     height: 65vw;
