@@ -1,0 +1,454 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <!-- Required meta tags hghwed -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-uWxY/CJNBR+1zjPWmfnSnVxwRheevXITnMqoEIeG1LJrdI0GlVs/9cVSyPYXdcSF" crossorigin="anonymous">
+  <link rel="stylesheet" href="./css/style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <script src="https://kit.fontawesome.com/yourcode.js" crossorigin="anonymous"></script>
+  <title>Om Netra Dham </title>
+</head>
+
+<body>
+  <!-- navvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv vvvvvvvvvv start                  -->
+
+
+  <div class="container-fluid fixed-top  bg-white ">
+    <nav class="navbar navbar-expand-lg navbar-light bg-white ">
+      <div class="container-fluid">
+        <a href="#"><img class="mylogo" src="./img/logo.png" alt=""></a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup"
+          aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+          <div class="navbar-nav">
+            <a class="nav-link " href="./index.html">Home</a>
+            <a class="nav-link" href="./about.html">About</a>
+            <a class="nav-link" href="./Service.html">Service</a>
+            <a class="nav-link" href="./appoinment.html">Appointment</a>
+            <a class="nav-link" href="./contact.html">Contact</a>
+            <a class="nav-link" href="./gallary.html">Gallary</a>
+            <ul class="list-inline ico footer-socials mt-2">
+              <li class="list-inline-item"><a href="#"><i class="fa fa-facebook fa-lg"></i></a></li>
+              <li class="list-inline-item"><a href="#"><i class="fa fa-twitter fa-lg"></i></a></li>
+              <li class="list-inline-item"><a href="#"><i class="fa fa-linkedin fa-lg"></i></a></li>
+            </ul>
+
+          </div>
+        </div>
+      </div>
+    </nav>
+  </div>
+
+  <!-- nav .........................................................end -->
+  <div class="container-fluid aniket">
+    <div class="row">
+
+    </div>
+  </div>
+
+
+
+  <!-- slider..................................... -->
+
+  <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
+    <div class="carousel-indicators">
+      <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active"
+        aria-current="true" aria-label="Slide 1"></button>
+      <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1"
+        aria-label="Slide 2"></button>
+      <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2"
+        aria-label="Slide 3"></button>
+    </div>
+    <div class="carousel-inner ">
+      <div class="carousel-item  active">
+        <img src="./img/bg/1.jpg" class="d-block w-100" alt="...">
+        <div class="carousel-caption text-dark d-none d-md-block">
+          <h5>First slide label</h5>
+
+          <p>Some representative placeholder content for the first slide.</p>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <img src="./img/bg/3.jpg" class="d-block w-100" alt="...">
+        <div class="carousel-caption d-none text-dark d-md-block">
+          <h5>Second slide label</h5>
+          <p>Some representative placeholder content for the second slide.</p>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <img src="./img/bg/2.jpg " class="d-block w-100" alt="...">
+        <div class="carousel-caption d-none text-dark d-md-block">
+          <h5>Third slide label</h5>
+          <p>Some representative placeholder content for the third slide.</p>
+        </div>
+      </div>
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="visually-hidden ">Next</span>
+    </button>
+  </div>
+
+
+  <!-- /slider end...............................................-->
+
+  <!-- card start -->
+
+  <div class="container-fuld ">
+    <div class="container  mt-5">
+      <div class="row">
+       
+        <div class="col-md-3">
+          <div class="card abhi">
+            <img class="card-img-top photo ph22 " src="./img/family.jpg" alt="Card image cap">
+            <div class="card-body">
+              <h5 class="card-title">Meet The Experts</h5>
+              <hr class="line">
+              <h4>Expert Trained From Aims</h4>
+              <p class="card-text">The Om Netra Dham Eye Care Team Comprises Of More Than 50+ Eye Specialists
+                From Differnt Subspecialties Of Opthalmology. The Team Has 50+ Trained Doctors Froms AIMS New Delhi.</p>
+              <a href="appoinment.html" class="btn btn-primary btnoo">Book an Appoinment</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="card abhi">
+            <img class="card-img-top photo " src="./img/eye exam3.jpg" alt="Card image cap">
+            <div class="card-body">
+              <h5 class="card-title">Meet The Experts</h5>
+              <hr class="line">
+              <h4>Expert Trained From Aims</h4>
+              <p class="card-text">The Om Netra Dham Eye Care Team Comprises Of More Than 50+ Eye Specialists
+                From Differnt Subspecialties Of Opthalmology. The Team Has 50+ Trained Doctors Froms AIMS New Delhi.</p>
+              <a href="appoinment.html" class="btn btn-primary btnoo">Book an Appoinment</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="card abhi">
+            <img class="card-img-top photo photo1  ph22"   src="./img/5 year experience.jpg" alt="Card image cap">
+            <div class="card-body">
+              <h5 class="card-title">1 Year Experience</h5>
+              <hr class="line">
+              <h4>Hospitals Across</h4>
+              <p class="card-text monu">Being One Of The Best Eye Hospitals In India, Om Netra Dham Eye Care Provides
+                State-
+                Of- Art Opthalmology Services In 40+* Hospitals Across 34+* Cities In India.</p>
+              <a href="./appoinment.html" class="btn btn-primary btnooo">Book an Appoinment</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="card abhi">
+            <img class="card-img-top photo photo1 ph22  " src="./img/nabh.png" alt="Card image cap">
+            <div class="card-body">
+              <h5 class="card-title">LOCATIONS</h5>
+              <hr class="line">
+              <p class="card-text">
+               
+               <i class="fa fa-map-marker fa-3x" style="margin-left: 2vw;" aria-hidden="true"></i>
+               <h5 style="text-align: center; ;">Garkha <br> <br>
+              Near Block <br> <br>
+            841311</h5> 
+              </p>
+              <a href="./appoinment.html" class="btn btn-primary btnoooo">Book an Appoinment</a>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <!--  card end................................. -->
+
+  <div class="container-fluid mt-5 ">
+    <div class="container  text-dark">
+
+      <h2 style="text-align: center;">OUR SERVISES</h2>
+      <p style="font-size: 24px;">
+        Soecialy Eye is a full scope optometric practice dedicated providing the highest quality eye
+        health and vison care to children and adults in a frindly, comfortable,and professional
+        atmosphere. with a highly trined team and state of the arts equipment,we go boyond 20/20!
+
+
+      </p>
+
+    </div>
+
+    <!-- card -->
+    <div class="container  mt-5">
+      <div class="row">
+        <div class="col-md-2 border ml-1 bg-white rounded-3 shadow">
+          
+          <a href="./adulteyeexams.html">
+          <img class="cardd2 hover1" src="./img/card/icons8-eye-24.png " alt="">
+          <h6 class="carddd">
+            <a href="./adulteyeexams.html" target="_blank"> AdultEyeExams</a>
+          </h6> </a>
+
+        </div>
+        <div class="col-md-2 border ml-1 bg-white  rounded-3 shadow">
+          <a href="./Pediatric_Eye_Exam.html">
+          <img class="cardd2 hover1" src="./img/card/icons8-child-24.png" alt="">
+          <h6 class="carddd">
+            <a href="./Pediatric_Eye_Exam.html" target="_blank">
+              Pediatric Eye Exam</a>
+          </h6></a>
+
+        </div>
+        <div class="col-md-2 border ml-1  bg-white  rounded-3 shadow">
+          <a href="./Lenses.html">
+          <img class="cardd2 hover1" src="./img/card/icons8-lens-24.png" alt="">
+          <h6 class="carddd">
+            <a href="./Lenses.html" target="_blank"> Lenses</a>
+          </h6></a>
+
+        </div>
+        <div class="col-md-2 border ml-1  bg-white   rounded-3 shadow">
+          <a href="./Glasses.html">
+          <img class="cardd2 hover1" src="./img/card/icons8-glasses-30.png" alt="">
+          <h6 class="carddd">
+            <a href="./Glasses.html" target="_blank"> Glasses</a>
+          </h6></a>
+
+        </div>
+
+      </div>
+    </div>
+
+    <div class="container mt-5">
+      <div class="row hei">
+        <div class="col-md-2 border ml-1 bg-white rounded-3 shadow">
+          <a href="./Catract.html">
+          <img class="cardd2 hover1" src="./img/card/catract.png" alt="">
+          <h6 class="carddd">
+            <a href="./Catract.html" target="_blank">Catract</a>
+          </h6></a>
+
+        </div>
+        <div class="col-md-2 border ml-1  bg-white rounded-3 shadow">
+
+          <a href="./dry_eye.html">
+          <img class="cardd2 hover1" src="./img/card/icons8-doctors-bag-24.png" alt="">
+          <h6 class="carddd">
+            <a href="./dry_eye.html" target="_blank"> Dry Eye</a>
+          </h6></a>
+
+        </div>
+        <div class="col-md-2 border ml-1  bg-white  rounded-3 shadow">
+          <a href="./Myopia.html">
+          <img class="cardd2 hover1" src="./img/card/icons8-microscope-50.png" alt="">
+          <h6 class="carddd">
+            <a href="./Myopia.html" target="_blank"> Myopia</a>
+          </h6></a>
+
+        </div>
+        <div class="col-md-2 border ml-1  bg-white  rounded-3 shadow">
+          <a href="./Vison_therapy.html">
+          <img class="cardd2 hover1" src="./img/card/icons8-binoculars-30.png" alt="">
+          <h6 class="carddd">
+            <a href="./Vison_therapy.html" target="_blank"> Vison therapy</a>
+          </h6></a>
+
+        </div>
+
+      </div>
+    </div>
+
+
+
+  </div>
+
+
+
+  <!-- Appointment -->
+
+
+
+
+
+  <section class="section mt-5 appoinment">
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-lg-6 ">
+          <div class="appoinment-content">
+            <img src="./img/bg/importance-of-regular-eye-care.jpg" alt="" class="img-fluid iamfluid photo33">
+
+          </div>
+        </div>
+        <div class="col-lg-6 col-md-10 ">
+          <div class="appoinment-wrap mt-5 mt-lg-0">
+            <h2 class="mb-2 mt-4 text-center title-color">Book appoinment</h2>
+            <p class="mb-4 ps">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, ea! Ipsum, dolor illo
+              consectetur ut vero deserunt. Impedit, eaque ducimus.</p>
+            <form id="#" class="appoinment-form" method="post" action="mail.php">
+              <div class="row">
+
+
+                <div class="col-lg-6 mt-2">
+                  <div class="form-group">
+                    <input name="name" id="name" type="text" class="form-control" placeholder="Full Name">
+                  </div>
+                </div>
+
+
+                <div class="col-lg-6 mt-2">
+                  <div class="form-group">
+                    <input name="email" id="email" type="email" class="form-control" placeholder="Email Id">
+                  </div>
+                </div>
+
+                <div class="col-lg-6 mt-2">
+                  <div class="form-group">
+                    <input name="date" id="date" type="date" class="form-control" placeholder="Date">
+                  </div>
+                </div>
+
+                <div class="col-lg-6 mt-2">
+                  <div class="form-group">
+                    <input type="tel" id="phone" name="phone"  class="form-control" placeholder="Your Phone No" pattern="[0-9]{3}-[0-9]{2}-[0-9]{3}">
+ 
+                  </div>
+                </div>
+
+                <div class="form-group-2 mt-2 mb-4">
+                  <textarea name="message" id="message" class="form-control" rows="6"
+                    placeholder="Your Message"></textarea>
+                </div>
+                <a class="btn btn-main bg-primary btn-round-full motuji text-white" href="./appoinment.html">Make Appoinment<i
+                    class="icofont-simple-right ml-2"></i></a>
+
+
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+
+  <!--/ card end....................................................aniket kumar                              .................... ........................
+  ....................................................................................................................................... -->
+
+
+
+
+
+  <!-- footer start -->
+
+  <footer class="footer section mt-5 bg-light">
+    <div class="container">
+      <div class="row ">
+        <div class="col-lg-4 mr-auto  col-sm-6">
+          <div class="widget ftr mb-5 mb-lg-0">
+            <div class="logo mt-3 mb-4 height-logo">
+              <img src="./img/logo.png" alt="" class="img-fluid foot-logo">
+            </div>
+            <p>Om Netra Dham Eye Care Has Successfully Treated Over Five Lakh Patients Till Date.</p>
+
+          </div>
+        </div>
+
+        <div class="col-lg-2 mt-4 ftr2 col-md-6 col-sm-6">
+          <div class="widget mb-5 mb-lg-0 height-base">
+            <h4 class="text-capitalize mb-3">Our Services</h4>
+            <div class="divider mb-4"></div>
+
+            <ul class="list-unstyled footer-menu lh-35">
+              <li class="underline"><a href="./Catract.html">Catract </a></li>
+              <li class="underline"><a href="Refractive_Surgery.html">Refractive Surgery </a></li>
+              <li class="underline"><a href="Cornea.html">Cornea </a></li>
+              <li class="underline"><a href="./Glaucoma.html">Glaucoma </a></li>
+              <li class="underline"><a href="./Retina.html">Retina </a></li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="col-lg-2 ftr2 mt-4 col-md-6 col-sm-6">
+          <div class="widget mb-5 mb-lg-0 height-base">
+            <h4 class="text-capitalize mb-3">Address</h4>
+            <div class="divider mb-4"></div>
+
+            <ul class="list-unstyled footer-menu lh-35">
+              <li>Garkha Block</li>
+              <li>Saran</li>
+              <li>841311</li>
+            </ul>
+          </div>
+          <div class="footermap">
+            <iframe
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3591.171925196523!2d84.85928081429937!3d25.830879512039598!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3992b3187c1012d1%3A0x1839e858bdfc70e2!2sOM%20NETRADHAM%20EYE%20CARE!5e0!3m2!1sen!2sin!4v1634018398537!5m2!1sen!2sin"
+        width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+          </div>
+        </div>
+
+        <div class="col-lg-3 mt-4 ftr2 col-md-6 col-sm-6">
+          <div class="widget widget-contact mb-5 mb-lg-0">
+            <h4 class="text-capitalize mb-3">Get in Touch</h4>
+            <div class="divider mb-4"></div>
+
+            <div class="footer-contact-block mb-4">
+              <div class="icon d-flex align-items-center">
+                <i class="icofont-email mr-3"></i>
+                <span class="h6 mb-0">Support Available for 24/7</span>
+              </div>
+              <h4 class="mt-2"><a href="mailto:omnetradham@gmail.com">omnetradham@gmail.com</a></h4>
+            </div>
+
+            <div class="footer-contact-block">
+              <div class="icon d-flex align-items-center">
+                <i class="icofont-support mr-3"></i>
+                <span class="h6 mb-0">Mon to Fri : 08:30 - 18:00</span>
+              </div>
+              <h4 class="mt-2"><a href="tel:+91-9117029185">+91-9117029185</a></h4>
+            </div>
+          </div>
+        </div>
+        <ul class="list-inline footer-socials mt-4 foot-social height-boss">
+          <li class="list-inline-item"><a href="#"><i class="fa fa-facebook fa-lg "></i></a></li>
+          <li class="list-inline-item"><a href="#"><i class="fa fa-twitter fa-lg"></i></a></li>
+          <li class="list-inline-item"><a href="#"><i class="fa fa-linkedin fa-lg"></i></a></li>
+        </ul>
+
+
+      </div>
+    </div>
+    <p id="copyy">© 2021 Suvaidyam India, All rights reserved.</p>
+  </footer>
+
+
+
+
+
+
+
+
+  <!-- Optional JavaScript; choose one of the two! -->
+
+  <!-- Option 1: Bootstrap Bundle with Popper -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-kQtW33rZJAHjgefvhyyzcGF3C5TFyBQBA13V1RKPf4uH+bwyzQxZ6CmMZHmNBEfJ"
+    crossorigin="anonymous"></script>
+
+  <!-- Option 2: Separate Popper and Bootstrap JS -->
+  <!--
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js" integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/js/bootstrap.min.js" integrity="sha384-PsUw7Xwds7x08Ew3exXhqzbhuEYmA2xnwc8BuD6SEr+UmEHlX8/MCltYEodzWA4u" crossorigin="anonymous"></script>
+    -->
+</body>
+
+</html>
