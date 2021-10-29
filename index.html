@@ -7,11 +7,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <!-- Bootstrap CSS -->
+<!-- JavaScript Bundle with Popper -->
+      <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-uWxY/CJNBR+1zjPWmfnSnVxwRheevXITnMqoEIeG1LJrdI0GlVs/9cVSyPYXdcSF" crossorigin="anonymous">
-  <link rel="stylesheet" href="./css/style.css">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <script src="https://kit.fontawesome.com/yourcode.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://kit.fontawesome.com/yourcode.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="./css/style.css">
   <title>Om Netra Dham </title>
 </head>
 
@@ -344,8 +346,49 @@
   <!--/ card end....................................................aniket kumar                              .................... ........................
   ....................................................................................................................................... -->
 
-
-
+<!-- popup  -->
+<div id="enquirypopup" class="modal fade in" role="dialog">
+  <div class="modal-dialog">
+    
+    <!-- Modal content-->
+    <div class="modal-content row">
+      <div class="callout" data-closable>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">
+          
+        </button>
+        <h4 class="modal-title pop"> Appoinment Now</h4>
+      </div>
+      <div class="modal-body">
+        <form name="info_form" class="form-inline" action="#" method="post">
+          <div class="form-group col-sm-12">
+            <input type="text" class="form-control" name="name" id="name" placeholder="Enter Name">
+          </div>
+          <div class="form-group col-sm-12">
+            <input type="email" class="form-control" name="email" id="email" placeholder="Enter Email">
+          </div>
+          <div class="form-group col-sm-12">
+            <input type="text" class="form-control" name="checkin" id="cheeckin" placeholder="Check-In Date">
+          </div>
+          <div class="form-group col-sm-12">
+            <input type="text" class="form-control" name="checkout" id="cheeckout" placeholder="Check-Out Date">
+          </div>
+          <div class="form-group col-sm-12">
+            <input type="text" class="form-control" name="phone" id="phone" placeholder="Enter Phone">
+          </div>
+          
+          <div class="form-group col-sm-12">
+            <textarea class="form-control" id="msg" name="msg" rows="4" placeholder="Enter Message"></textarea>
+          </div>
+          <div class="form-group col-sm-12">
+            <button type="submit" class="btn  btn-primary btn-default pull-right">Submit</button>
+          </div>
+        </form>
+      </div>
+      
+    </div>
+    
+  </div>
+</div>
 
 
   <!-- footer start -->
@@ -432,7 +475,12 @@
 
 
 
-
+<script>
+    $(window).load(function(){
+        setTimeout(function() {
+                $('#enquirypopup').modal('show');
+        }, 3000);
+            }); </script>
 
 
 

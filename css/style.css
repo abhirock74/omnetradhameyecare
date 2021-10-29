@@ -1,3 +1,48 @@
+
+
+#enquirypopup .modal-dialog .close {
+    
+
+
+    
+    top: 4px;
+    right: 6px;
+    position: absolute;
+}
+
+.custom-modal-header .modal-title {
+    font-weight: bold; 
+    font-size: 18px;
+}
+
+#enquirypopup .modal-dialog:after {
+    content: '';
+    height: 0px;
+    width: 0px;
+
+
+    border-bottom: 50px solid transparent;
+    position: absolute;
+    top: 1px;
+    right: -14px;
+    z-index: 999999;
+}
+
+.form-group {
+    margin-bottom: 15px !important;
+}
+
+.form-inline .form-control {
+    display: inline-block;
+    width: 100%;
+    vertical-align: middle;
+} *
+
+
+
+
+
+
 /* nav start */
 *{
     margin: 0;
