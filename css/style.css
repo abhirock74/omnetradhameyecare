@@ -451,6 +451,29 @@ footer{
     margin-top: 1vw;
     margin-left: 33vw;
 }
+img, svg {
+    vertical-align: middle;
+    width: 7vw;
+}
+.h4, h4 {
+    font-size: 1.5rem;
+    float: right;
+    margin-right: 7vh;
+    font-size: 2.1vw;
+    margin-top: 2vw;
+}
+#ourservice{
+    text-align: center;
+    display: inline-block;
+    font-size: 25px;
+    margin-top: -10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#book{
+    text-align: center;
+    margin-top: 1vw;
+}
   /* ============================================================================================================
   ------------------------------------mobile view ---------------------------------------------------------------
   =============================================================================================================== */
@@ -680,6 +703,9 @@ footer{
         .btn-close{
             margin-top: 8vw;
             margin-left: 0%;
+        }
+        .popuplogo{
+            width: 6vw;
         }
  }
  /* =================================================================================================================
