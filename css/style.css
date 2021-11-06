@@ -1,5 +1,42 @@
+.btn-close{
+    margin-left: 36vw !important;
+    margin-top: -3vw !important;
+    background-color: red;
+    opacity: 1;
+}
+.modal-content {
 
+margin-left: -22vw;
+width: 80vw;
+}
+.noww{
+    margin-left: 12vw;
+}
+.omggg{
+    margin-top: -2vw;
+}
+.modalll{
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.modall{
+    background-image: url(../img/formbg1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50vw;
 
+}
+
+.modal-body{
+    margin-left: 21vw;
+    width: 40vw;
+    background-image: url(../img/formbg2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 3vw;
+
+}
 #enquirypopup .modal-dialog .close {
     
 
@@ -185,7 +222,7 @@ p{
     margin-top: 5vw;
   }
 .photo{
-    height: 13vw;
+    height: 11vw;
 }
 .line{
     width: 7vw;
