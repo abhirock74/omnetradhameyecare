@@ -6,8 +6,8 @@
 }
 .modal-content {
 
-margin-left: -22vw;
-width: 80vw;
+margin-left: -4vw;
+width:48vw;
 }
 .noww{
     margin-top: 1.5vw;
@@ -30,7 +30,7 @@ width: 80vw;
 }
 
 .modal-body{
-    margin-left: 21vw;
+    margin-left: 4vw;
     width: 40vw;
     background-image: url(../img/formbg2.jpg);
     background-repeat: no-repeat;
