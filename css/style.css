@@ -142,16 +142,14 @@ p{
 }
 
 .btnoo{
-    margin-left: 2vw;
-    margin-top: 1.2vw;
+    margin-left: 5.3vw;
+    margin-top: 5vw;
+    padding: 10px;
 }
 .btnooo{
-    margin-left: 2vw;
+    margin-left: 5.3vw;
     margin-top: -1vw;
-}
-.btnoooo{
-    margin-left: 2vw;
-    margin-top: 6vw;
+    padding: 10px;
 }
 .ml-1 {
     margin-left: 5.5vw;
@@ -228,7 +226,7 @@ p{
       margin-left: 2vw;
   }
 .photo{
-    height: 11vw;
+    height: 16vw;
 }
 .line{
     width: 7vw;
@@ -515,6 +513,9 @@ img, svg {
     text-align: center;
     margin-top: 1vw;
 }
+.col-md-3{
+    width: 33%;
+}
   /* ============================================================================================================
   ------------------------------------mobile view ---------------------------------------------------------------
   =============================================================================================================== */
@@ -524,6 +525,9 @@ img, svg {
         margin-left: 0vw;
         height:50vw;
         margin-top:3vw;
+    }
+    .col-md-3{
+        width: 100%;
     }
 .cardd2 {
     height: 50px;
