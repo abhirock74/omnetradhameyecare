@@ -143,7 +143,7 @@ p{
 
 .btnoo{
     margin-left: 5.3vw;
-    margin-top: 5vw;
+    margin-top: 1vw;
     padding: 10px;
 }
 .btnooo{
@@ -645,10 +645,10 @@ img, svg {
 .btnooo {
     margin-left: 17vw;
     margin-top: 1.3vw;
+
 }
-.btnoooo {
-    margin-left: 17vw;
-    margin-top: 2.7vw;
+.rrrr{
+    line-height: 30px;
 }
 .photo1{
     height: 65vw;
