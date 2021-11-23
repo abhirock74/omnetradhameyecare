@@ -849,7 +849,7 @@ img, svg {
  @media screen and (width:320px){
     /* //////////////////////////////////HOME PAGE///////////////////////////////// */
     .abhi {
-        height: 170vw;
+        height: 190vw;
         margin-bottom: 0vw;
     }
     .btno {
@@ -895,6 +895,11 @@ img, svg {
         margin-left: 24%;
         margin-right: 22%;
         margin-bottom: 6vw;
+    }
+    .don {
+        margin-top: -3vw;
+        font-size: 6vw;
+        margin-left: 1vw;
     }
     /* //////////////////////////////////CONTACT PAGE///////////////////////////////// */
 
@@ -988,4 +993,76 @@ img, svg {
 
       /* //////////////////////////////////gallary PAGE///////////////////////////////// */
  }
+
+ @media (width:384px){
+     .abhi{
+         height: 165vw;
+     }
+     .ps{
+         margin-top: 12vw;
+     }
+     .don {
+        margin-top: 0vw;
+        font-size: 5vw;
+    }
+ }
+
+ /* =====================================glaxy tab ========================================== */
+ @media (width:712px){
+    .modal-content{
+        margin-left: -12vw;
+    }
+     .btn-close{
+         margin-top: 5vw !important;
+         font-size: 4vw;
+     }
+     .don{
+         font-size: 6vw;
+     }
+     .form-control{
+         line-height: 6vw;
+         font-size: 20px;
+     }
+     .noww{
+         height: 10vw;
+         width: 35vw;
+         margin-left: 25vw;
+         font-size: 20px;
+     }
+     .navbar-toggler-icon{
+         width: 3.5rem;
+         height: 3.5rem;
+     }
+     .rrrr{
+         line-height: 5vw;
+         font-size: 20px;
+     }
+     .abhi{
+         height: 120vw;
+     }
+ }
+/* ==============================JIO pHONE =================================================== */
+@media (width:240px){
+    
+    .abhi{
+        height: 300vw;
+    }
+    .btnoo{
+        margin-left: 2vw;
+    }
+    .btnooo{
+        margin-left: 2vw;
+        margin-top: 10vw;
+    }
+    .cardd2{
+        margin-left: 27vw;
+        margin-top: 7vw;
+    }
+    .mamama{
+        font-size: 7vw;
+    }
+    .section{
+        margin-top: 23vw;
+    }
+}
  
