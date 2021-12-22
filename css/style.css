@@ -449,6 +449,21 @@ footer{
 .hover1:hover{
     border: 10px solid transparent;
 }
+.progressive-lens{
+    background-color: #000;
+    background-image: url(../img/bg/progressive\ lense.jpg);
+    background-repeat: no-repeat;
+    height: 40rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+
+
+
 @media only screen and (max-width:990px){
     .box-gallery{ margin-bottom: 30px; }
 }
