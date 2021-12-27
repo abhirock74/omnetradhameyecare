@@ -651,7 +651,7 @@ img, svg {
     .progressive-lens{
         background-image: url(../img/bg/progressive\ lense\ mobile.jpg);
     }
-    
+    #more {display: none;}
 .btno {
     margin-left: 18vw;
     margin-top: 2vw;
